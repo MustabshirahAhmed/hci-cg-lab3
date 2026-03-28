@@ -1,0 +1,16 @@
+/* Button styling */
+#actionBtn {
+    padding: 10px 20px;
+    margin: 10px 0;
+    transition: background-color 0.2s, transform 0.1s;
+}
+
+/* Hover effect */
+#actionBtn:hover {
+    background-color: #e0e0e0;
+}
+
+/* Status div spacing */
+#status {
+    margin-top: 10px;
+}
